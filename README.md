@@ -11,6 +11,6 @@ an internet connection
 # Installation
 This will clone the repo and install the module. THIS IS NOT READY FOR INSTALLATION YET.
 
-`git clone https://github.com/SorrowEater/pywctl.git
+``git clone https://github.com/SorrowEater/pywctl.git
 cd pywctl/scripts
-pip3 install .`
+pip3 install .``
