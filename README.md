@@ -12,5 +12,5 @@ an internet connection (unless you're on snakeware, then it's included for MY FO
 This will clone the repo and install the module. THIS IS NOT READY FOR INSTALLATION YET.
 
 `git clone https://github.com/SorrowEater/pywctl.git`
-`cd pywctl/scripts`
+`cd pywctl`
 `pip3 install .`
