@@ -8,7 +8,7 @@ pip
 iwd
 git
 ```
-an internet connection (unless you're on snakeware, then it's included for MY FORK.)
+and an internet connection (unless you're on snakeware, then it's included for MY FORK.)
 
 # Installation
 This will clone the repo and install the module. THIS IS NOT READY FOR INSTALLATION YET.
