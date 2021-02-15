@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+pywctl/__init__.py
+pywctl/main.py
+pywctl.egg-info/PKG-INFO
+pywctl.egg-info/SOURCES.txt
+pywctl.egg-info/dependency_links.txt
+pywctl.egg-info/top_level.txt
